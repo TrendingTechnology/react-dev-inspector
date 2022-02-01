@@ -67,7 +67,7 @@
     "@types/react": "17.0.38",
     "@types/react-reconciler": "0.26.4",
     "@types/webpack": "4.41.32",
-    "@types/webpack-dev-server": "3.11.6",
+    "@types/webpack-dev-server": "4.7.1",
     "@typescript-eslint/eslint-plugin": "4.33.0",
     "@typescript-eslint/parser": "4.33.0",
     "@umijs/types": "3.5.20",
